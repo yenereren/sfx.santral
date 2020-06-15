@@ -4,6 +4,8 @@
   "description": "",
   "main": "santral.js",
   "scripts": {
+    "start": "node santral.js",
+    "watch": "nodemon santral.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,7 +19,9 @@
   },
   "homepage": "https://github.com/yenereren/sfx.santral#readme",
   "dependencies": {
+    "axios": "^0.19.2",
     "cors": "^2.8.5",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "require-from-string": "^2.0.2"
   }
 }
