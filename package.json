@@ -1,0 +1,23 @@
+{
+  "name": "sfx.santral",
+  "version": "1.0.0",
+  "description": "",
+  "main": "santral.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yenereren/sfx.santral.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yenereren/sfx.santral/issues"
+  },
+  "homepage": "https://github.com/yenereren/sfx.santral#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
