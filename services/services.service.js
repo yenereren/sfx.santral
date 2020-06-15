@@ -41,7 +41,6 @@ const getData = async (name, version) => {
             const data = await serviceFromString.service();
             return data;
         }
-        
     }
 
     return false;
