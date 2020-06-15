@@ -1,4 +1,4 @@
-//const { renderFragment } = require('../services/fragments.service');
+const { getData } = require('../services/services.service');
 
 const servicesController = (app) => {
 
